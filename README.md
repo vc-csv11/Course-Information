@@ -1,32 +1,38 @@
-# Syllabus - Spring 2019 CS V13 Object Oriented Programming
+# Syllabus - Fall 2019 CS V11 Programming Fundamentals
 
-[Wiki](https://github.com/vc-csv113-spring2019/Course-Information/wiki)
+[Wiki](https://github.com/vc-csv11/Course-Information/wiki)
 
 ### Instructor:
 
 [Allan Knight](https://www.linkedin.com/in/allanknight)  
 Email: [aknight@vcccd.edu](mailto:aknight@vcccd.edu)  
-Phone: (805) 289-6481 (maybe)  
+Phone: (805) 289-6339  
 Office: #SCI-356  
-Office Hours: TR 10:00 AM - 11:50AM
+Office Hours: MW 8:00 AM - 10:00AM & TR 10:00 AM - 12:00PM
 
 ### Description:  
 
-his course introduces the concepts of object-oriented programming to students with a background in the procedural paradigm. The course begins with a review of control structures and data types, with emphasis on structured data types and array processing. It then moves on to introduce the object-oriented programming paradigm, focusing on the definition and use of classes along with the fundamentals of object-oriented design. Other topics include an overview of programming language principles, simple analysis of algorithms, basic searching and sorting techniques, and an introduction to software engineering issues.
+This course introduces the student to fundamental concepts of procedural programming. Topics include data types, control structures, functions, arrays, files, and the mechanics of running, testing, and debugging. The course emphasizes good software engineering principles and developing fundamental programming skills in the context of a functional programming language.
 
-[Canvas Site](https://vcccd.instructure.com/courses/14844)
+[Canvas Site](https://vcccd.instructure.com/courses/19373)
 
 ### Lecture:
 
-TR 5:00 PM - 6:50 PM (SCI-226)
+TR 12:30 PM - 2:20 PM (SCI-226)
 
 ### Textbook: 
 
-Absolute C++, 6th Edition, Walter Savitch and Kenrick Mock. ISBN: 978-0-133-97139-2 (It's also on [Amazon](https://www.amazon.com/Absolute-C-6th-Walter-Savitch/dp/0133970787/)). Not available from the VCC Bookstore. The textbook is required.
+Starting out with Python, 4th Edition, Tony Gaddis. ISBN: 978-0-134-54366-6 (It's also on [Amazon](https://www.amazon.com/Starting-Out-Python-Tony-Gaddis/dp/0134444329)). Not available from the VCC Bookstore. The textbook is required.
 
 ### Student Learning Outcomes:
 
-Coming Soon!
+**CSLO1** - Differentiate basic concepts of computer hardware, software, and programming languages.
+
+**CSLO2** - Implement data representation for the fundamental data types, perform conversions (between integer, float, and double types and between character data and string types), differentiate conversions between binary-octal-hexadecimal-decimal representations.
+
+**CSLO3** - Read, understand, and trace the execution of programs written in pure C/C++ or Python.
+
+**CSLO4** - Write the pure C/C++ or Python code using a modular/functional approach for a given algorithm.
 
 ### Grading:
 
