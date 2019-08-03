@@ -6,7 +6,7 @@
 
 [Allan Knight](https://www.linkedin.com/in/allanknight)  
 Email: [aknight@vcccd.edu](mailto:aknight@vcccd.edu)  
-Phone: (805) 289-6339  
+Phone: (805) 289-6489  
 Office: #SCI-356  
 Office Hours: MW 8:00 AM - 10:00AM & TR 10:00 AM - 12:00PM
 
@@ -33,6 +33,15 @@ Starting out with Python, 4th Edition, Tony Gaddis. ISBN: 978-0-134-54366-6 (It'
 **CSLO3** - Read, understand, and trace the execution of programs written in pure C/C++ or Python.
 
 **CSLO4** - Write the pure C/C++ or Python code using a modular/functional approach for a given algorithm.
+
+### Final Exam
+
+The final exam will be held in the usual class room, SCI-226, from 12:30PM to 2:30PM on Thursday, December 12, 2019. Bring the 
+usual materials for the final, like for the mid-term, a writing utensil (No. 2 Pencil), 8.5" X 11" sheet of paper with your notes
+(you can put notes on both sides), and that's it. There will be no need for a calculator. As a matter of fact, if you think you 
+need a calculator, you're probably doing something wrong. 
+
+Remember, the following Tuesday, December 17, 2019, there is no class or lecture.
 
 ### Grading:
 
