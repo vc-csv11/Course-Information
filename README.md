@@ -1,7 +1,5 @@
 # Syllabus - Spring 2020 CS V11 Programming Fundamentals
 
-[Wiki](https://github.com/vc-csv11/Course-Information/wiki)
-
 ### Instructor:
 
 [Allan Knight](https://www.linkedin.com/in/allanknight)  
@@ -17,7 +15,7 @@ structures, functions, arrays, files, and the mechanics of running, testing, and
 software engineering principles and developing fundamental 
 programming skills in the context of a functional programming language.
 
-[Canvas Site](https://vcccd.instructure.com/courses/19373)
+[Canvas Site](https://vcccd.instructure.com/courses/23252)
 
 ### Lecture:
 
